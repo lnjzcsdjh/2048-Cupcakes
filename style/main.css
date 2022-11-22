@@ -91,7 +91,7 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
 }
 
 .score-container .score-addition,
@@ -127,7 +127,7 @@ p {
 }
 
 a {
-    color: #ffffff;
+    color: #000000;
     font-weight: bold;
     text-decoration: underline;
     cursor: pointer;
@@ -188,7 +188,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #bbada0;
+    background: #000000;
     border-radius: 6px;
     width: 500px;
     height: 500px;
