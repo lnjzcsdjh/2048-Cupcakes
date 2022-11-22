@@ -3,8 +3,8 @@ html,
 body {
     margin: 0;
     padding: 0;
-    background: #faf8ef;
-    color: #776e65;
+    background: #000000;
+    color: #ffffff;
     font-family: "Clear Sans", Helvetica Neue, Arial, sans-serif;
     font-size: 18px;
 }
@@ -69,7 +69,7 @@ h1.title {
 .best-container {
     position: relative;
     display: inline-block;
-    background: #bbada0;
+    background: #000000;
     padding: 15px 25px;
     font-size: 25px;
     height: 25px;
@@ -91,7 +91,7 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: #eee4da;
+    color: #000000;
 }
 
 .score-container .score-addition,
@@ -127,7 +127,7 @@ p {
 }
 
 a {
-    color: #776e65;
+    color: #000000;
     font-weight: bold;
     text-decoration: underline;
     cursor: pointer;
@@ -204,7 +204,7 @@ hr {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(238, 228, 218, 0.5);
+    background: #000000;
     z-index: 100;
     text-align: center;
     -webkit-animation: fade-in 800ms ease 1200ms;
@@ -230,7 +230,7 @@ hr {
 
 .game-container .game-message a {
     display: inline-block;
-    background: #8f7a66;
+    background: #000000;
     border-radius: 3px;
     padding: 0 20px;
     text-decoration: none;
@@ -246,7 +246,7 @@ hr {
 
 .game-container .game-message.game-won {
     background: rgba(237, 194, 46, 0.5);
-    color: #f9f6f2;
+    color: #000000;
 }
 
 .game-container .game-message.game-won a.keep-playing-button {
@@ -283,7 +283,7 @@ hr {
     margin-right: 15px;
     float: left;
     border-radius: 3px;
-    background: rgba(238, 228, 218, 0.35);
+    background: #444444;
 }
 
 .grid-cell:last-child {
@@ -426,7 +426,7 @@ hr {
 
 .tile .tile-inner {
     border-radius: 3px;
-    background: #fff;
+    background: #444444;
     text-align: center;
     font-weight: bold;
     z-index: 10;
