@@ -69,7 +69,7 @@ h1.title {
 .best-container {
     position: relative;
     display: inline-block;
-    background: #ffffff;
+    background: #000000;
     padding: 15px 25px;
     font-size: 25px;
     height: 25px;
@@ -204,7 +204,7 @@ hr {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #ffffff;
+    background: #000000;
     z-index: 100;
     text-align: center;
     -webkit-animation: fade-in 800ms ease 1200ms;
@@ -234,7 +234,7 @@ hr {
     border-radius: 3px;
     padding: 0 20px;
     text-decoration: none;
-    color: #f9f6f2;
+    color: #000000;
     height: 40px;
     line-height: 42px;
     margin-left: 9px;
@@ -246,7 +246,7 @@ hr {
 
 .game-container .game-message.game-won {
     background: rgba(237, 194, 46, 0.5);
-    color: #ffffff;
+    color: #000000;
 }
 
 .game-container .game-message.game-won a.keep-playing-button {
